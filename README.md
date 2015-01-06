@@ -15,10 +15,10 @@ is about Hydrogenic atoms.
 The paper starts off with the Schrodinger equation and builds up a description
 of the phenomena which contribute to the Hydrogenic spectrum including:
 
-    * Fine Structure (due to relativistic effects and electron spin)
-    * The Dirac Equation (which provides the proper formalism for fine structure)
-    * Hyperfine Structure (due to the electric multipole moments of the nucleus)
-    * The Lamb Shift (due to Quantum Electrodynamic Effects)
+* Fine Structure (due to relativistic effects and electron spin)
+* The Dirac Equation (which provides the proper formalism for fine structure)
+* Hyperfine Structure (due to the electric multipole moments of the nucleus)
+* The Lamb Shift (due to Quantum Electrodynamic Effects)
 
 Although the paper briefly describes the source of the Lamb Shift, it basically
 stops there and does not expand on the theory or the mathematics of Quantum
@@ -39,4 +39,4 @@ of the paper is the same as the one I submitted in 1998 as an undergraduate.
 
 The PDF of the complete article can be downloaded from here:
 
-    * [The Energy Levels and Spectrum of Hydrogenic Atoms (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
+* [The Energy Levels and Spectrum of Hydrogenic Atoms (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
