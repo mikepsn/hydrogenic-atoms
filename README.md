@@ -39,4 +39,5 @@ of the paper is the same as the one I submitted in 1998 as an undergraduate.
 
 The PDF of the complete article can be downloaded from here:
 
-* [The Energy Levels and Spectrum of Hydrogenic Atoms (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
+* [The Energy Levels and Spectrum of Hydrogenic Atoms (Paper) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
+* [The Energy Levels and Spectrum of Hydrogenic Atoms (Presenation) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-talk.pdf?raw=true)
