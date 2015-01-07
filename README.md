@@ -42,4 +42,4 @@ The PDF of the complete article can be downloaded from here:
 * [The Energy Levels and Spectrum of Hydrogenic Atoms (Paper) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
 * [The Energy Levels and Spectrum of Hydrogenic Atoms (Presenation) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-talk.pdf?raw=true)
 
-<script async class="speakerdeck-embed" data-id="796c5ee0786601326af432f59620d919" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="796c5ee0786601326af432f59620d919" data-ratio="1.33333333333333" src="http://speakerdeck.com/assets/embed.js"></script>
