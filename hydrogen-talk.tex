@@ -1,4 +1,4 @@
-\documentclass[xcolor=dvipsnames,t]{beamer} 
+\documentclass[aspectratio=1610,xcolor=dvipsnames,t]{beamer} 
 
 \usepackage{listings} 
 \usepackage{color} 
@@ -13,16 +13,25 @@
 \usepackage{verbatim} 
 
 \usetheme{Madrid} 
+\useinnertheme{rectangles} 
+
+\setbeamertemplate{navigation symbols}{}
+%\setbeamerfont{block title}{size={}}
+%\setbeamercolor*{title}{bg=}
 
 %\definecolor{mypurple}{rgb}{.49,0,98}
 %\setbeamercolor*{palette primary}{use=structure,fg=white,bg=green}
 %\usecolortheme[rgb={0.9,0.2,0.2}]{structure}
-\usecolortheme[rgb={0.2,0.6,0.2}]{structure}
-
+\usecolortheme[rgb={0.2,0.7,0.2}]{structure}
 
 \title[Hydrogenic Atoms]{Energy Levels and Spectrum of Hydrogenic Atoms} 
-\author{ Michael Papasimeon} % \\
+\author{ Michael Papasimeon} 
 \date{April 16, 1998}
+%\titlegraphic{\includegraphics[width=\textwidth]{hydrogen-spectrum}}
+
+\addtobeamertemplate{title
+page}{\centering\includegraphics[width=0.5\textwidth]{hydrogen-spectrum}}{}
+
 
 \newcommand{\ket}[1]{| #1 \rangle}
 \newcommand{\bra}[1]{\langle #1 |}
@@ -31,7 +40,7 @@
 \begin{document}
 
 \begin{frame}
-    \maketitle
+    \titlepage
 \end{frame} 
 
 \section{Schr\"odinger Equation}
@@ -592,6 +601,8 @@
         \item \emph{The Spectrum of Atomic Hydrogen - Advances}, Series
         \item \emph{Quantum Mechanics}, Merzbacher
         \item \emph{Modern Physics}, Serway, Moses and Moyer
+        \item \emph{WikiMedia Commons} Hydrogen Spectrum \\
+            \url{http://commons.wikimedia.org/wiki/File:Hydrogen_spectrum.svg} 
     \end{enumerate}
     \end{frame} 
 

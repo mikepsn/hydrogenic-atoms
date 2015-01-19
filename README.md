@@ -42,3 +42,6 @@ The PDF of the complete article can be downloaded from here:
 * [The Energy Levels and Spectrum of Hydrogenic Atoms (Paper) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-article.pdf?raw=true)
 * [The Energy Levels and Spectrum of Hydrogenic Atoms (Presenation) (PDF)](https://github.com/mikepsn/hydrogenic-atoms/blob/master/hydrogen-talk.pdf?raw=true)
 
+Note the image of the Hydrogen spectral lines on the front page of the
+presentation has been obtained from WikiMedia Commons under a CC-SA license.
+See: [Hydrogen Spectrum](http://commons.wikimedia.org/wiki/File:Hydrogen_spectrum.svg) 
